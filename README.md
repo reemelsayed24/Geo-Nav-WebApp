@@ -1,4 +1,4 @@
-Geo-Navigation Web Application
+## Geo-Navigation Web Application
 
 ![alt Map](Capture.PNG)
 
