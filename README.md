@@ -1,8 +1,10 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ![alt Map](Capture.PNG)
+
+This project is supported with AWS including: AWS Location Service, Amplify and Cognito
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
